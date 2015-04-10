@@ -1,0 +1,2830 @@
+{
+  "slides": [
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/NALqrMt.jpg",
+      "x": 237,
+      "y": 176
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 0,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#000000\">Why Musings?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 2,
+          "y": 168,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div><font color=\"#000000\" face=\"Lato\"><i>Methodologies change as&nbsp;</i></font></div><div><font color=\"#000000\" face=\"Lato\"><i>technology changes</i></font></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 225,
+          "y": 500,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Principles of forensics seem <br>to stick around a little longer</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 816,
+      "y": 176,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 8,
+          "y": 327,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#000000\" face=\"Lato\">Lets Jump right into it ...&nbsp;</font>",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 1389,
+      "y": 174,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 0,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Meet William of Ockham<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png",
+          "type": "Image",
+          "x": 37,
+          "y": 93,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 2020,
+      "y": 163
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 5,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<ul><li><font color=\"#000000\" face=\"Lato\"><span style=\"line-height: normal;\">English&nbsp;Franciscan&nbsp;Friar</span></font><br></li><li><font color=\"#000000\" face=\"Lato\"><span style=\"line-height: normal;\">Two really great ideas:</span></font></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 150,
+          "y": 205,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<ul><li><span style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal;\">Nominalism</span><br></li><li><span style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal;\">Occam's Razor</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 2092,
+      "y": 168,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 278,
+          "y": 5,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\"><u>Occam's Razor</u></font>",
+          "selected": false
+        },
+        {
+          "src": "http://buy.diamondheadusa.com/media/catalog/product/cache/1/image/1000x1000/9df78eab33525d08d6e5fb8d27136e95/i/m/image1.png",
+          "type": "Image",
+          "x": 7,
+          "y": 32,
+          "scale": {
+            "x": 0.294,
+            "y": 0.294,
+            "width": 294,
+            "height": 294
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -0.69
+        },
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-family: Lato;\">Among competing hypotheses,&nbsp;</span></div><font color=\"#000000\" face=\"Lato\"><div style=\"text-align: center;\">the one with the&nbsp;</div><div style=\"text-align: center;\"><b><u>fewest</u></b>&nbsp;</div><div style=\"text-align: center;\">assumptions should be selected</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 4.71,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 2087,
+      "y": 642
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 239,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">What Happened?</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://friendlyexpresstowing.com/images/Flat_Tire.JPG",
+          "type": "Image",
+          "x": 176,
+          "y": 171,
+          "scale": {
+            "x": 0.33789062499999994,
+            "y": 0.33789062499999994,
+            "width": 691.9999999999999,
+            "height": 518.9999999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 3.15,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1651,
+      "y": 696
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 350,
+          "y": 67,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">The Culprit?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://stream1.gifsoup.com/view/388236/knife-man-o.gif",
+          "type": "Image",
+          "x": 19,
+          "y": 215,
+          "scale": {
+            "x": 1.63125,
+            "y": 1.63125,
+            "width": 522,
+            "height": 278.94375
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://cdn3.bigcommerce.com/s-pvwh051/products/111/images/299/galv_roofing_nail_112EGRFG__79848.1403696351.195.195.png?c=2",
+          "type": "Image",
+          "x": 677,
+          "y": 208,
+          "scale": {
+            "x": 1.6564102564102563,
+            "y": 1.6564102564102563,
+            "width": 323,
+            "height": 298.15384615384613
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 11,
+          "y": 502,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Serial Tire Slasher? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nail?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 3.15,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1649,
+      "y": 525
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 62,
+          "text": "<font color=\"#000000\" face=\"Lato\">What about for Information Security?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.marshall.edu/kb/files/2009/07/error_page_cannot_be_displayed.png",
+          "type": "Image",
+          "x": 284,
+          "y": 99,
+          "scale": {
+            "x": 0.5408878504672897,
+            "y": 0.5408878504672897,
+            "width": 463,
+            "height": 359.14953271028037
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.ytimg.com/vi/bGF7Y_FTZ_M/0.jpg",
+          "type": "Image",
+          "x": 47,
+          "y": 495,
+          "scale": {
+            "x": 0.6354166666666666,
+            "y": 0.6354166666666666,
+            "width": 305,
+            "height": 228.75
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://images.saimatkong.com/blog/computer/hardware-monitor-found-an-error.gif",
+          "type": "Image",
+          "x": 669,
+          "y": 483,
+          "scale": {
+            "x": 0.658,
+            "y": 0.658,
+            "width": 329,
+            "height": 246.75
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 485,
+          "y": 509,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#000000\" face=\"Lato\">?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1276,
+      "y": 450
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 174,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Are you Fred Phelps?&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "src": "http://chrisstedman.religionnews.com/files/2014/03/PhelpsPulpit.jpg",
+          "type": "Image",
+          "x": 321,
+          "y": 106,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 99,
+          "y": 404,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Or does your server room look like this?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.dotcom-monitor.com/blog/wp-content/uploads/2010/08/worst.jpg",
+          "type": "Image",
+          "x": 327,
+          "y": 475,
+          "scale": {
+            "x": 0.73,
+            "y": 0.73,
+            "width": 365,
+            "height": 273.75
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 3.15,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1012,
+      "y": 448
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 483,
+          "y": 37,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 66,
+          "text": "<font color=\"#000000\" face=\"Lato\">Occam's Gotcha</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/9DpNwRd.jpg",
+          "type": "Image",
+          "x": 31,
+          "y": 37,
+          "scale": {
+            "x": 0.536,
+            "y": 0.536,
+            "width": 402,
+            "height": 268
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "rotate": -0.36
+        },
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 393,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<font color=\"#000000\" face=\"Lato\"><br><br>For our scientific needs, Occam's Razor<br>should only be used as a&nbsp;<b>heuristic </b>guide<b>&nbsp;</b><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -1.24,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1826,
+      "y": 343
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-ATziXapw5JE/UGB7k4aKt1I/AAAAAAAACxk/BEIkJiQyXDQ/s1600/i-has-question-lolcat.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1573,
+      "y": 442
+    },
+    {
+      "components": [
+        {
+          "src": "http://1.bp.blogspot.com/-vbZu4VutFSM/T8DzuXq97rI/AAAAAAAAAEs/MenjZKzLkls/s1600/Locard-VermardP.jpg",
+          "type": "Image",
+          "x": 14,
+          "y": 187,
+          "scale": {
+            "x": 0.29899665551839466,
+            "y": 0.29899665551839466,
+            "width": 447,
+            "height": 450.88695652173914
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#000000\" face=\"Lato\">Meet Edmond Locard</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 751,
+      "y": 688
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 234,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Locard's Exchange Principle</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 81,
+          "y": 430,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\"><i>\"Every contact leaves a trace\"</i></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 115,
+          "y": 411,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 748,
+      "y": 493
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 11,
+          "y": 129,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">The perpetrator of a crime will <br><b><u>bring </u></b></font><b><u>something</u></b> into the crime <br>scene and <b><u>leave with something</u></b> <br>from it, and that both can be <br>used as <b><u>forensic evidence</u></b>.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.64,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 752,
+      "y": 790
+    },
+    {
+      "components": [
+        {
+          "src": "http://24.media.tumblr.com/tumblr_lgzb4jm3K41qh59n0o1_400.gif",
+          "type": "Image",
+          "x": 2,
+          "y": 234,
+          "scale": {
+            "x": 1.2999999999999998,
+            "y": 1.2999999999999998,
+            "width": 519.9999999999999,
+            "height": 345.79999999999995
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 165,
+          "y": 37,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Examples of Exchange</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 602,
+          "y": 228,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal;\">Bart's Skin</span><br></li><li><span style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal;\">Bart's Clothes</span></li></ul><div><font color=\"#000000\" face=\"Lato\"><br></font></div><div><ul><li><font color=\"#000000\" face=\"Lato\"><span style=\"line-height: normal;\">Homer's Skin</span></font></li><li><font color=\"#000000\" face=\"Lato\"><span style=\"line-height: normal;\">Homer's FPs</span></font></li><li><font color=\"#000000\" face=\"Lato\"><span style=\"line-height: normal;\">Homer's Clothes</span></font></li></ul></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 470,
+      "y": 785
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 233,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Digital Exchanges</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://openclipart.org/people/lyte/1318685740.svg",
+          "type": "Image",
+          "x": 76,
+          "y": 237,
+          "scale": {
+            "width": 236,
+            "height": 240
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "http://openclipart.org/people/lyte/web_server.svg",
+          "type": "Image",
+          "x": 697,
+          "y": 228,
+          "scale": {
+            "width": 240,
+            "height": 287
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 489,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<font color=\"#000000\" face=\"Lato\">Browser's Cache<br>has artifacts of the <br>webserver<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 591,
+          "y": 525,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 42,
+          "text": "<font color=\"#000000\" face=\"Lato\">Webserver logs has <br>the&nbsp;IP of the client and <br>user agent<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 471,
+      "y": 552
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-ATziXapw5JE/UGB7k4aKt1I/AAAAAAAACxk/BEIkJiQyXDQ/s1600/i-has-question-lolcat.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 199,
+      "y": 557
+    },
+    {
+      "components": [
+        {
+          "src": "http://quizimg2.whichblankareyou.com/Q1844A419021.png",
+          "type": "Image",
+          "x": 419,
+          "y": 4,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://quizimg2.whichblankareyou.com/Q1844A419021.png",
+          "type": "Image",
+          "x": 14,
+          "y": 19,
+          "scale": {
+            "x": 0.33666666666666667,
+            "y": 0.33666666666666667,
+            "width": 202,
+            "height": 200.65333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://quizimg2.whichblankareyou.com/Q1844A419021.png",
+          "type": "Image",
+          "x": 15,
+          "y": 246,
+          "scale": {
+            "x": 0.33666666666666667,
+            "y": 0.33666666666666667,
+            "width": 202,
+            "height": 200.65333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 630,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">What do you see?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.clker.com/cliparts/J/o/u/t/c/t/black-line-th.png",
+          "type": "Image",
+          "x": 73,
+          "y": 447,
+          "scale": {
+            "x": 2.7,
+            "y": 2.7,
+            "width": 270,
+            "height": 243.00000000000003
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0.71
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.79,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 181,
+      "y": 1051
+    },
+    {
+      "components": [
+        {
+          "src": "http://quizimg2.whichblankareyou.com/Q1844A419021.png",
+          "type": "Image",
+          "x": 212,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://quizimg2.whichblankareyou.com/Q1844A419021.png",
+          "type": "Image",
+          "x": 295,
+          "y": 118,
+          "scale": {
+            "x": 0.33666666666666667,
+            "y": 0.33666666666666667,
+            "width": 202,
+            "height": 200.65333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://quizimg2.whichblankareyou.com/Q1844A419021.png",
+          "type": "Image",
+          "x": 531,
+          "y": 115,
+          "scale": {
+            "x": 0.33666666666666667,
+            "y": 0.33666666666666667,
+            "width": 202,
+            "height": 200.65333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 630,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">What do you see?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.clker.com/cliparts/J/o/u/t/c/t/black-line-th.png",
+          "type": "Image",
+          "x": 381,
+          "y": 338,
+          "scale": {
+            "x": 2.7,
+            "y": 2.7,
+            "width": 270,
+            "height": 243.00000000000003
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0.71
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 543,
+      "y": 1047
+    },
+    {
+      "components": [
+        {
+          "src": "https://pbs.twimg.com/media/BuKnkF_IEAE6hTA.jpg",
+          "type": "Image",
+          "x": -5,
+          "y": 1,
+          "scale": {
+            "x": 0.6183333333333333,
+            "y": 0.6183333333333333,
+            "width": 371,
+            "height": 496.52166666666665
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.thisiscolossal.com/wp-content/uploads/2013/11/faces-2.jpg",
+          "type": "Image",
+          "x": 345,
+          "y": -104,
+          "scale": {
+            "x": 0.5557142857142857,
+            "y": 0.5557142857142857,
+            "width": 389,
+            "height": 411.22857142857146
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://pbs.twimg.com/media/BYsCKPdIIAAZC_8.jpg",
+          "type": "Image",
+          "x": 682,
+          "y": 0,
+          "scale": {
+            "x": 0.8399014778325123,
+            "y": 0.8399014778325123,
+            "width": 341,
+            "height": 602.2093596059113
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.kinja-img.com/gawker-media/image/upload/s--Ti7wjLHt--/c_fit,fl_progressive,q_80,w_636/197utdi31lti5png.png",
+          "type": "Image",
+          "x": 230,
+          "y": 269,
+          "scale": {
+            "x": 0.7798742138364779,
+            "y": 0.7798742138364779,
+            "width": 495.99999999999994,
+            "height": 279.1949685534591
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://media-cache-ec0.pinimg.com/236x/f0/4b/3b/f04b3b52aeff05b81766d47c056cc8b9.jpg",
+          "type": "Image",
+          "x": -11,
+          "y": 387,
+          "scale": {
+            "x": 1.2245762711864407,
+            "y": 1.2245762711864407,
+            "width": 289,
+            "height": 385.74152542372883
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://static02.mediaite.com/geekosystem/uploads/2011/02/faces_happygrater.jpg",
+          "type": "Image",
+          "x": 269,
+          "y": 529,
+          "scale": {
+            "x": 0.6418181818181818,
+            "y": 0.6418181818181818,
+            "width": 353,
+            "height": 265.0709090909091
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.staffordshirearts.co.uk/wp-content/uploads/2013/04/faces2_bath.jpg",
+          "type": "Image",
+          "x": 619,
+          "y": 473,
+          "scale": {
+            "x": 0.6114369501466276,
+            "y": 0.6114369501466276,
+            "width": 417,
+            "height": 313.0557184750733
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0.79,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 338,
+      "y": 1372
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 256,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 108,
+          "text": "<font color=\"#000000\" face=\"Lato\">Apophenia</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 196,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\"><i>The ability to see patterns or <br>connections in</i></font><i style=\"color: rgb(0, 0, 0); font-family: Lato;\"><div style=\"text-align: center; display: inline !important;\"><i>random data</i></div></i><font color=\"#000000\" face=\"Lato\"><i><br></i></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.79,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 837,
+      "y": 1378
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 13,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 103,
+          "text": "<font color=\"#000000\" face=\"Lato\">Dangers of Apophenia</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<ul><li><span style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal;\">Enhance Bias</span><br></li><li><span style=\"color: rgb(0, 0, 0); font-family: Lato; line-height: normal;\">Ignore Evidence</span></li><li><font color=\"#000000\" face=\"Lato\"><span style=\"line-height: normal;\">Texas Sharpshooter Fallacy</span></font></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 844,
+      "y": 1564
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 191,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Let's go on a tangent</font>",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "src": "http://mrspal.org/files/2011/06/alice-falling-down-rabbit-hole-1cp1iga.jpg",
+          "type": "Image",
+          "x": 235,
+          "y": 133,
+          "scale": {
+            "x": 0.7805555555555556,
+            "y": 0.7805555555555556,
+            "width": 562,
+            "height": 449.6
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 215,
+          "y": 626,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Down a rabbit hole</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 1.57,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 1361,
+      "y": 1229
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 99,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Remember Cryptolocker?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.bleepstatic.com/fhost/uploads/2/cryptolocker-2.0.jpg",
+          "type": "Image",
+          "x": 426,
+          "y": 150,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.fallstongroup.com/wp-content/uploads/2013/04/FG-Media-Collage.jpg",
+          "type": "Image",
+          "x": 28,
+          "y": 245,
+          "scale": {
+            "x": 0.71,
+            "y": 0.71,
+            "width": 355,
+            "height": 277.61
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 1.57,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 1674,
+      "y": 1229
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Domain Generation Algorithm</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/mjLYi83.png",
+          "type": "Image",
+          "x": 16,
+          "y": 262,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 132,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Uses the current day to generate a new domain<br><div style=\"text-align: center;\">which the malware can communicate too</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 173,
+          "y": 675,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 76,
+          "text": "<font color=\"#000000\" face=\"Lato\">Whats this look like?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 1.57,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 2047,
+      "y": 1227
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 118,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 40,
+          "text": "1 k.infosec\n<br>2\tka.infosec\n<br>3\tkaf.infosec\n<br>4\tkafp.infosec\n<br>5\tkafph.infosec\n<br>6\tkafpho.infosec\n<br>7\tkafphog.infosec\n<br>8\tkafphogv.infosec\n<br>9\tkafphogvi.infosec\n<br>10\tkafphogvif.infosec\n<br>11\tkafphogvifa.infosec\n<br>12\tkafphogvifah.infosec\n<br>13\tkafphogvifahu.infosec\n<br>14\tkafphogvifahut.infosec\n<br>15\tkafphogvifahutb.infosec\n<br>16\tkafphogvifahutbl.infosec<br>",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 509,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Iterations as the DGA<br>adds random <br>characters &nbsp;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 1.57,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 2422,
+      "y": 1228
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<font color=\"#000000\" face=\"Lato\">Lets look at some real DNS traffic</font>",
+          "selected": false
+        },
+        {
+          "src": "https://isc.sans.edu/diaryimages/chromedns1.png",
+          "type": "Image",
+          "x": 52,
+          "y": 129,
+          "scale": {
+            "x": 2.3106060606060606,
+            "y": 2.3106060606060606,
+            "width": 915,
+            "height": 439.0151515151515
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 183,
+          "y": 593,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">So, what caused this?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 1.57,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 2830,
+      "y": 1223
+    },
+    {
+      "components": [
+        {
+          "src": "http://cdn.meme.li/instances/500x/54090852.jpg",
+          "type": "Image",
+          "x": 23,
+          "y": 14,
+          "scale": {
+            "x": 1.92,
+            "y": 1.92,
+            "width": 960,
+            "height": 725.76
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 2901,
+      "y": 1224
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 86,
+          "text": "<font color=\"#000000\" face=\"Lato\">What the&nbsp;heck happened?<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://25.media.tumblr.com/c8c5de4fb8f6e71026907a4012e4a80f/tumblr_mmh5pm23mE1qmanvuo1_500.gif",
+          "type": "Image",
+          "x": 33,
+          "y": 164,
+          "scale": {
+            "x": 1.9916666666666667,
+            "y": 1.9916666666666667,
+            "width": 956,
+            "height": 497.9166666666667
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 395,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 2872,
+      "y": 922
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 81,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 110,
+          "text": "<font color=\"#000000\" face=\"Lato\">Then what was it?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://siliconangle.com/files/2013/06/google-evil.jpg",
+          "type": "Image",
+          "x": 159,
+          "y": 196,
+          "scale": {
+            "x": 1.4677754677754677,
+            "y": 1.4677754677754677,
+            "width": 706,
+            "height": 469.6881496881497
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 3196,
+      "y": 952
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-ATziXapw5JE/UGB7k4aKt1I/AAAAAAAACxk/BEIkJiQyXDQ/s1600/i-has-question-lolcat.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.79,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 3195,
+      "y": 1140
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 191,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 121,
+          "text": "<font color=\"#000000\" face=\"Lato\">Let's Recap!</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 185,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#000000\" face=\"Lato\">Occam's Razor</font>",
+          "selected": false
+        },
+        {
+          "src": "http://oi40.tinypic.com/a1235u.jpg",
+          "type": "Image",
+          "x": 37,
+          "y": 148,
+          "scale": {
+            "x": 0.5372340425531915,
+            "y": 0.5372340425531915,
+            "width": 101,
+            "height": 246.05319148936172
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://s.hswstatic.com/gif/locards-exchange-principle-3.jpg",
+          "type": "Image",
+          "x": 664,
+          "y": 297,
+          "scale": {
+            "x": 0.87,
+            "y": 0.87,
+            "width": 348,
+            "height": 250.56
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 414,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 74,
+          "text": "<font color=\"#000000\" face=\"Lato\">Locard's Exchanges</font>",
+          "selected": false
+        },
+        {
+          "src": "http://33.media.tumblr.com/tumblr_l2r25afP9v1qb3dpwo1_500.jpg",
+          "type": "Image",
+          "x": 25,
+          "y": 519,
+          "scale": {
+            "x": 0.7846153846153846,
+            "y": 0.7846153846153846,
+            "width": 357,
+            "height": 235.3846153846154
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 395,
+          "y": 576,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<font color=\"#000000\" face=\"Lato\">Apophenia messing <br>with your mind</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.79,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 3194,
+      "y": 1410
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-ATziXapw5JE/UGB7k4aKt1I/AAAAAAAACxk/BEIkJiQyXDQ/s1600/i-has-question-lolcat.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 3194,
+      "y": 1644
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 125,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><font color=\"#000000\">Even after Occam's Razor</font></span></div><div style=\"text-align: center;\"><font color=\"#000000\"><br></font></div><div style=\"text-align: center;\"><font color=\"#000000\">There can be many theories left</font></div><div style=\"text-align: center;\"><font color=\"#000000\"><br></font></div><div style=\"text-align: center;\"><font color=\"#000000\">How can we reduce that?</font></div>",
+          "selected": false
+        },
+        {
+          "src": "http://gifrific.com/wp-content/uploads/2012/07/Homer-Simpson-Zoned-Out.gif",
+          "type": "Image",
+          "x": 362,
+          "y": 546,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 3199,
+      "y": 1834
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 199,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 99,
+          "text": "<font color=\"#000000\" face=\"Lato\">Meet Socrates</font>",
+          "selected": false
+        },
+        {
+          "src": "http://ohkrapp.files.wordpress.com/2008/11/bill-and-ted-socrates1.jpg",
+          "type": "Image",
+          "x": 104,
+          "y": 228,
+          "scale": {
+            "x": 1.4383802816901408,
+            "y": 1.4383802816901408,
+            "width": 817,
+            "height": 468.91197183098586
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 1.57,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 3488,
+      "y": 1839
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 84,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<font color=\"#000000\" face=\"Lato\">The Socratic Method<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 307,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 60,
+          "text": "<font color=\"#000000\" face=\"Lato\">Excellent method for debating people<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 421,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 60,
+          "text": "<font color=\"#000000\" face=\"Lato\">Excellent method for reducing theories<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "x": 3495,
+      "y": 2127
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 78,
+          "text": "<font color=\"#000000\" face=\"Lato\"><u>How does it work?</u></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 15,
+          "y": 150,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 90,
+          "text": "<font color=\"#000000\" face=\"Lato\">Prove the theories wrong</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://hortenseardalan.com/images/black_hole/reality/There-Is-No-Spoon---The-Matrix-(5-9)-Movie-CLIP-(1999)-HD.gif",
+          "type": "Image",
+          "x": 118,
+          "y": 275,
+          "scale": {
+            "x": 1.23125,
+            "y": 1.23125,
+            "width": 788,
+            "height": 332.4375
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 638,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 78,
+          "text": "<font color=\"#000000\" face=\"Lato\">There are no theories?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.79,
+      "rotateZ": 1.57,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "x": 3801,
+      "y": 2121
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Instead of trying to prove a theory<br><br>it may be easier to disprove the rest<br><br><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "x": 4104,
+      "y": 2102
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-ATziXapw5JE/UGB7k4aKt1I/AAAAAAAACxk/BEIkJiQyXDQ/s1600/i-has-question-lolcat.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 39,
+      "selected": false,
+      "active": false,
+      "x": 4427,
+      "y": 2100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 106,
+          "text": "<font color=\"#000000\" face=\"Lato\">Not bad!&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "src": "http://rdemotivational.com/sites/default/files/user_uploaded/403414_478140132230534_1443222408_n.jpeg",
+          "type": "Image",
+          "x": 116,
+          "y": 138,
+          "scale": {
+            "x": 1.7304347826086957,
+            "y": 1.7304347826086957,
+            "width": 796,
+            "height": 622.9565217391304
+          },
+          "imageType": "JPEG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.79,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 40,
+      "selected": false,
+      "active": false,
+      "x": 4313,
+      "y": 1795
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.crosstrick.com/images/tellsomeone.jpg",
+          "type": "Image",
+          "x": 522,
+          "y": 142,
+          "scale": {
+            "x": 0.6883333333333334,
+            "y": 0.6883333333333334,
+            "width": 413,
+            "height": 550.6666666666666
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 39,
+          "y": 27,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<font color=\"#000000\" face=\"Lato\">I'll tell you!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 41,
+      "selected": false,
+      "active": false,
+      "x": 4503,
+      "y": 1832
+    },
+    {
+      "components": [
+        {
+          "src": "http://37.media.tumblr.com/tumblr_lzewzjQ5iT1rohij2o1_500.png",
+          "type": "Image",
+          "x": 1,
+          "y": 44,
+          "scale": {
+            "x": 2.044,
+            "y": 2.044,
+            "width": 1022,
+            "height": 680.652
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 42,
+      "selected": false,
+      "active": false,
+      "x": 4890,
+      "y": 1616
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 225,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Second hand information</font>",
+          "selected": false
+        },
+        {
+          "src": "http://38.media.tumblr.com/63b5d92bc25dfade538b37d27649a3ef/tumblr_ml0kfnMLrH1qedj2ho1_500.png",
+          "type": "Image",
+          "x": 204,
+          "y": 353,
+          "scale": {
+            "x": 1.2464646464646465,
+            "y": 1.2464646464646465,
+            "width": 617,
+            "height": 387.65050505050505
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 129,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 104,
+          "text": "<font color=\"#000000\" face=\"Lato\">What is hearsay?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 43,
+      "selected": false,
+      "active": false,
+      "x": 5136,
+      "y": 1784
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 27,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 95,
+          "text": "<font color=\"#000000\" face=\"Lato\">Why could this be bad?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 193,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Remember apophenia?</font>",
+          "selected": false
+        },
+        {
+          "src": "https://isc.sans.edu/diaryimages/chromedns1.png",
+          "type": "Image",
+          "x": 275,
+          "y": 469,
+          "scale": {
+            "x": 1.1994949494949496,
+            "y": 1.1994949494949496,
+            "width": 475.00000000000006,
+            "height": 227.90404040404042
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 44,
+      "selected": false,
+      "active": false,
+      "x": 5409,
+      "y": 1899
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 106,
+          "y": 153,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">We can protect against this ...</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 2,
+          "y": 333,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 120,
+          "text": "<font color=\"#000000\" face=\"Lato\"><b>Expect, but Inspect</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 45,
+      "selected": false,
+      "active": false,
+      "x": 5516,
+      "y": 2174
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 155,
+          "y": 316,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 113,
+          "text": "<font color=\"#000000\" face=\"Lato\">Anything else?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 46,
+      "selected": false,
+      "active": false,
+      "x": 5731,
+      "y": 2388
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/WfTzrxQ.jpg",
+          "type": "Image",
+          "x": 56,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 0,
+      "index": 47,
+      "selected": false,
+      "active": false,
+      "x": 6011,
+      "y": 2384
+    },
+    {
+      "components": [
+        {
+          "src": "http://nice-cool-pics.com/data/media/22/are_we_done_yet-___2007__ice_cube__nia_long.jpg",
+          "type": "Image",
+          "x": 35,
+          "y": 2,
+          "scale": {
+            "x": 0.74609375,
+            "y": 0.74609375,
+            "width": 955,
+            "height": 764
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.79,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 48,
+      "selected": false,
+      "active": false,
+      "x": 6013,
+      "y": 2162
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.reformer802.com/realtalk/wp-content/uploads/sites/4/2014/04/1338097-bigthumbnail.jpg",
+          "type": "Image",
+          "x": 99,
+          "y": 223,
+          "scale": {
+            "x": 1.8355555555555556,
+            "y": 1.8355555555555556,
+            "width": 826,
+            "height": 515.7911111111111
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 204,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Don't chase the rabbit</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 109,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Use Justin Searle's 5 minute rule</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.79,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 49,
+      "selected": false,
+      "active": false,
+      "x": 6013,
+      "y": 1854
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-ATziXapw5JE/UGB7k4aKt1I/AAAAAAAACxk/BEIkJiQyXDQ/s1600/i-has-question-lolcat.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 157,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 0,
+      "index": 50,
+      "selected": false,
+      "active": false,
+      "x": 6387,
+      "y": 1853
+    },
+    {
+      "components": [
+        {
+          "src": "http://cdn.memegenerator.net/instances/400x/23846069.jpg",
+          "type": "Image",
+          "x": 277,
+          "y": 149,
+          "scale": {
+            "x": 1.1775,
+            "y": 1.1775,
+            "width": 471,
+            "height": 471
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 361,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">Let's recap</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 51,
+      "selected": false,
+      "active": false,
+      "x": 6394,
+      "y": 1890
+    },
+    {
+      "components": [
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png",
+          "type": "Image",
+          "x": 0,
+          "y": 1,
+          "scale": {
+            "x": 0.6051660516605166,
+            "y": 0.6051660516605166,
+            "width": 164,
+            "height": 218.4649446494465
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://1.bp.blogspot.com/-vbZu4VutFSM/T8DzuXq97rI/AAAAAAAAAEs/MenjZKzLkls/s1600/Locard-VermardP.jpg",
+          "type": "Image",
+          "x": 162,
+          "y": -1,
+          "scale": {
+            "x": 0.18795986622073582,
+            "y": 0.18795986622073582,
+            "width": 281.00000000000006,
+            "height": 283.4434782608696
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.funcage.com/blog/wp-content/uploads/2013/11/Just-Things-About-The-Faces-003-550x352.jpg",
+          "type": "Image",
+          "x": 443,
+          "y": -111,
+          "scale": {
+            "x": 1.0563636363636364,
+            "y": 1.0563636363636364,
+            "width": 581,
+            "height": 371.84000000000003
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://ohkrapp.files.wordpress.com/2008/11/bill-and-ted-socrates1.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 217,
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "width": 568,
+            "height": 326
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://37.media.tumblr.com/tumblr_lzewzjQ5iT1rohij2o1_500.png",
+          "type": "Image",
+          "x": 568,
+          "y": 209,
+          "scale": {
+            "x": 0.9180000000000003,
+            "y": 0.9180000000000003,
+            "width": 459.0000000000001,
+            "height": 305.6940000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WfTzrxQ.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 432,
+          "scale": {
+            "x": 0.49178532311062434,
+            "y": 0.49178532311062434,
+            "width": 449,
+            "height": 347.20043811610077
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://www.reformer802.com/realtalk/wp-content/uploads/sites/4/2014/04/1338097-bigthumbnail.jpg",
+          "type": "Image",
+          "x": 443,
+          "y": 422,
+          "scale": {
+            "x": 1.3022222222222224,
+            "y": 1.3022222222222224,
+            "width": 586.0000000000001,
+            "height": 365.9244444444445
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.79,
+      "rotateZ": 0,
+      "index": 52,
+      "selected": false,
+      "active": false,
+      "x": 6733,
+      "y": 2146
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 97,
+          "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+          "selected": false
+        },
+        {
+          "src": "http://hipsterjew.com/wp-content/uploads/2013/02/url2.jpeg",
+          "type": "Image",
+          "x": 312,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPEG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 121,
+          "y": 580,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 102,
+          "text": "<font color=\"#000000\" face=\"Lato\">LAST CHANCE!!!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.52,
+      "rotateZ": 0,
+      "index": 53,
+      "selected": false,
+      "active": true,
+      "x": 6965,
+      "y": 2147
+    },
+    {
+      "components": [
+        {
+          "src": "http://media2.giphy.com/media/AeWoyE3ZT90YM/200_s.gif",
+          "type": "Image",
+          "x": 22,
+          "y": 28,
+          "scale": {
+            "x": 2.0588235294117645,
+            "y": 2.0588235294117645,
+            "width": 979.9999999999999,
+            "height": 411.7647058823529
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.kshs.org/interact/graphics/twitter_logo.png",
+          "type": "Image",
+          "x": 258,
+          "y": 543,
+          "scale": {
+            "x": 0.11152764761012182,
+            "y": 0.11152764761012182,
+            "width": 118.99999999999999,
+            "height": 118.99999999999999
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 413,
+          "y": 549,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 82,
+          "text": "<font color=\"#000000\" face=\"Lato\">@JC_SoCal</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.79,
+      "rotateZ": -0.79,
+      "index": 54,
+      "selected": false,
+      "active": false,
+      "x": 6609,
+      "y": 2442
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 181,
+        "y": 21,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 97,
+        "text": "<font color=\"#000000\" face=\"Lato\">Any Questions?</font>",
+        "selected": false
+      },
+      {
+        "src": "http://hipsterjew.com/wp-content/uploads/2013/02/url2.jpeg",
+        "type": "Image",
+        "x": 312,
+        "y": 152,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPEG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 121,
+        "y": 580,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 102,
+        "text": "<font color=\"#000000\" face=\"Lato\">LAST CHANCE!!!</font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0.52,
+    "rotateZ": 0,
+    "index": 53,
+    "selected": false,
+    "active": true,
+    "x": 6965,
+    "y": 2147
+  },
+  "fileName": "Local.strut",
+  "deckVersion": "1.0",
+  "cannedTransition": "coverflow",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 3573,
+  "overviewY": 1302.5
+}
